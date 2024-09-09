@@ -1,2 +1,2 @@
-# teste-git-spip1
+# Demonstrando comandos git
 Demonstrando git para turma de SPI-P1 (UNIPÊ)
